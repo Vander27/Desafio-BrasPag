@@ -1,0 +1,22 @@
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.csprojAssemblyReference.cache
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.csprojAssemblyReference.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.pdb

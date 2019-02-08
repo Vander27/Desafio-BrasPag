@@ -1,0 +1,54 @@
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\EntityFramework.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\EntityFramework.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csprojResolveAssemblyReference.cache
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csprojResolveAssemblyReference.cache
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.pdb

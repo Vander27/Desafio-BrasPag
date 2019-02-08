@@ -1,0 +1,248 @@
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Services.dll.config
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Services.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Services.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\EntityFramework.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Newtonsoft.Json.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Http.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\EntityFramework.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Newtonsoft.Json.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Http.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\obj\Debug\Projeto.Services.csprojResolveAssemblyReference.cache
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\obj\Debug\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\obj\Debug\Projeto.Services.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\obj\Debug\Projeto.Services.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Antlr3.Runtime.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Repository.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Helpers.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Mvc.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Optimization.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Razor.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.WebPages.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\WebGrease.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Entities.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Repository.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Projeto.Repository.dll.config
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Antlr3.Runtime.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Helpers.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Mvc.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Optimization.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.Razor.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.WebPages.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\Swashbuckle.Core.dll
+C:\Users\vanderlei.campos\Desktop\SGV\SGV\Projeto.Services\bin\WebActivatorEx.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Services.dll.config
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Services.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Services.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Antlr3.Runtime.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\EntityFramework.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Newtonsoft.Json.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Entities.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Repository.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Swashbuckle.Core.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Helpers.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Http.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Mvc.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Optimization.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Razor.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\WebActivatorEx.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\WebGrease.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Entities.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Repository.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Projeto.Repository.dll.config
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Antlr3.Runtime.pdb
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\EntityFramework.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\Newtonsoft.Json.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Helpers.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Mvc.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Optimization.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Razor.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Http.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.csprojAssemblyReference.cache
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.csproj.CopyComplete
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.dll
+C:\Users\Coti-Maq03\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.csprojResolveAssemblyReference.cache
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Services.dll.config
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Services.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Services.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Antlr3.Runtime.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\EntityFramework.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Newtonsoft.Json.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Entities.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Repository.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Swashbuckle.Core.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Helpers.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Http.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Mvc.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Optimization.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Razor.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\WebActivatorEx.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\WebGrease.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Entities.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Repository.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Projeto.Repository.dll.config
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Antlr3.Runtime.pdb
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\EntityFramework.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\Newtonsoft.Json.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Helpers.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Mvc.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Optimization.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Razor.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Http.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.dll
+C:\Users\vanderlei.campos\Desktop\SGV\Projeto.Services\obj\Debug\Projeto.Services.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Services.dll.config
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Services.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Services.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Antlr3.Runtime.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\EntityFramework.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Newtonsoft.Json.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Entities.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Repository.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Swashbuckle.Core.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Helpers.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Http.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Mvc.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Optimization.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Razor.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.WebPages.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\WebActivatorEx.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\WebGrease.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Entities.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Repository.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Projeto.Repository.dll.config
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Antlr3.Runtime.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\EntityFramework.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\Newtonsoft.Json.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Helpers.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Mvc.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Optimization.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Razor.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.WebPages.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Http.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\obj\Debug\Projeto.Services.csprojAssemblyReference.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\obj\Debug\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\obj\Debug\Projeto.Services.csproj.CopyComplete
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\obj\Debug\Projeto.Services.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Services\obj\Debug\Projeto.Services.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Services.dll.config
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Services.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Services.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Antlr3.Runtime.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\EntityFramework.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Newtonsoft.Json.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Entities.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Repository.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Swashbuckle.Core.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Helpers.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Http.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Mvc.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Optimization.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Razor.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.WebPages.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\WebActivatorEx.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\WebGrease.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Entities.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Repository.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Projeto.Repository.dll.config
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Antlr3.Runtime.pdb
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\EntityFramework.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\Newtonsoft.Json.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Helpers.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Mvc.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Optimization.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Razor.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.WebPages.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Http.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\obj\Debug\Projeto.Services.csprojAssemblyReference.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\obj\Debug\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\obj\Debug\Projeto.Services.csproj.CopyComplete
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\obj\Debug\Projeto.Services.dll
+C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\DesafioBrasPag\Projeto.Services\obj\Debug\Projeto.Services.pdb
