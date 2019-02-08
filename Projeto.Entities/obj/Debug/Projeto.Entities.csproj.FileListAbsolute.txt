@@ -20,3 +20,9 @@ C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projet
 C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
 C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.dll
 C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Entities\obj\Debug\Projeto.Entities.csprojAssemblyReference.cache
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Entities\obj\Debug\Projeto.Entities.pdb

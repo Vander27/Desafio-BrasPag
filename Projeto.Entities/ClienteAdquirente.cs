@@ -10,9 +10,14 @@ namespace Projeto.Entities
    {
         public  int IdClienteAdquirente { get; set; }
         public  string Adquirente { get; set; }
-       
+
+
+
+
         #region Relacionamento
         public List<Taxa> Taxas { get; set; }
+     
+
         #endregion
 
     }

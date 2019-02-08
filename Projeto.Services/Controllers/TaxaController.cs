@@ -25,9 +25,11 @@ namespace Projeto.Services.Controllers
                 try
                 {
                    Taxa t = new Taxa(); //entidade..
+                    t.IdClienteAdquirente = model.IdClienteAdquirente;
                     t.Bandeira = model.Bandeira;
                     t.Credito = model.Credito;
                     t.Debito = model.Debito;
+                   
                     
                     TaxaRepository rep = new TaxaRepository();
                     rep.Insert(t); //gravando no banco de dados..
@@ -67,12 +69,14 @@ namespace Projeto.Services.Controllers
                 foreach (Taxa t in rep.FindAll())
                 {
                     TaxaConsultaViewModel model = new TaxaConsultaViewModel();
-                   
+
+                    model.Adquirente = t.ClienteAdquirente.Adquirente;
+
                     model.Bandeira = t.Bandeira;
-                    model.Tipo = t.Tipo;
+                    
                     model.Credito = t.Credito;
                     model.Debito = t.Debito;
-                    model.Adquirente = t.ClienteAdquirente.Adquirente;
+                
                    
 
                     lista.Add(model);
@@ -87,43 +91,7 @@ namespace Projeto.Services.Controllers
             }
         }
 
-        [HttpGet]
-        [Route("consultarporid")] //URL: /api/taxa/consultarporid
-        public HttpResponseMessage ConsultarPorId(int id)
-        {
-            try
-            {
-                TaxaRepository rep = new TaxaRepository();
-                Taxa t = rep.FindById(id);
-
-                if (t != null)
-                {
-
-                    TaxaConsultaViewModel model = new TaxaConsultaViewModel();
-
-                    model.Bandeira = t.Bandeira;
-                    model.Tipo = t.Tipo;
-                    model.Credito = t.Credito;
-                    model.Debito = t.Debito;
-                    model.IdClienteAdquirente = t.IdClienteAdquirente;
-               
-
-
-
-                    return Request.CreateResponse(HttpStatusCode.OK, model);
-                }
-                else
-                {
-                    return Request.CreateResponse(HttpStatusCode.NotFound,
-                        "Cartão não foi encontrado.");
-                }
-            }
-            catch (Exception e)
-            {
-                return Request.CreateResponse
-                (HttpStatusCode.InternalServerError, e.Message);
-            }
-        }
+       
 
 
     }

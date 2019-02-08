@@ -9,7 +9,7 @@ using System.Data.Entity.ModelConfiguration; //ORM..
 
 namespace Projeto.Repository.Mappings
 {
-    //Classe de mapeamento para a entidade CartaoBandeira..
+    //Classe de mapeamento para a entidade Taxa..
     public class TaxaMap : EntityTypeConfiguration<Taxa>
     {
         //construtor [ctor] + 2x[tab]
@@ -31,18 +31,14 @@ namespace Projeto.Repository.Mappings
                 .HasMaxLength(50)
                 .IsRequired();
 
-            Property(t => t.Tipo)
-                .HasColumnName("TIPO")
-                .HasMaxLength(50)
-                .IsRequired();
 
             Property(t => t.Credito)
-                 .HasColumnName("CREDITO")
-                .IsRequired();
+                 .HasColumnName("CREDITO");
+
 
             Property(t => t.Debito)
-                 .HasColumnName("DEBITO")
-               .IsRequired();
+                 .HasColumnName("DEBITO");
+               
 
             Property(t => t.IdClienteAdquirente)
                .HasColumnName("IDCLIENTEADQUIRENTE")

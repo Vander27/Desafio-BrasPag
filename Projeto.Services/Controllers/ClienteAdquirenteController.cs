@@ -43,6 +43,10 @@ namespace Projeto.Services.Controllers
             }
             else
             {
+
+
+
+
                 //retornar um status de sucesso.. HTTP 400
                 return Request.CreateResponse(HttpStatusCode.BadRequest,
                     "Ocorreram erros de validação nos campos enviados.");
@@ -82,40 +86,7 @@ namespace Projeto.Services.Controllers
             }
         }
 
-        [HttpGet]
-        [Route("consultarporid")] //URL: /api/clienteadquirente/consultarporid
-        public HttpResponseMessage ConsultarPorId(int id)
-        {
-            try
-            {
-                ClienteAdquirenteRepository rep = new ClienteAdquirenteRepository();
-                ClienteAdquirente a = rep.FindById(id);
-
-                if (a != null)
-                {
-
-
-                    ClienteAdquirenteConsultaViewModel model = new ClienteAdquirenteConsultaViewModel();
-                   
-                    model.Adquirente = a.Adquirente;
-                   
-                   
-
-
-                    return Request.CreateResponse(HttpStatusCode.OK, model);
-                }
-                else
-                {
-                    return Request.CreateResponse(HttpStatusCode.NotFound,
-                        "Adquirente não foi encontrado.");
-                }
-            }
-            catch (Exception e)
-            {
-                return Request.CreateResponse
-                (HttpStatusCode.InternalServerError, e.Message);
-            }
-        }
+        
 
     }
 }

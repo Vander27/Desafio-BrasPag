@@ -9,9 +9,12 @@ namespace Projeto.Services.Models
     public class ClienteAdquirenteCadastroViewModel
     {
 
-        [Required(ErrorMessage = "Por favor, informe o Adquirente.")]
+        public decimal Valor { get; set; }
         public  string Adquirente { get; set; }
+        public string Bandeira{ get; set; }
+        public string Tipo { get; set; }
+        
 
-      
+
     }
 }

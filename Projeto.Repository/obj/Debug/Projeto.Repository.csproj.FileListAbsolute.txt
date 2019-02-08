@@ -52,3 +52,17 @@ C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Proj
 C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
 C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.dll
 C:\Users\Vanderlei\Desktop\DESAFIO BRASPAG\SGV\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\EntityFramework.dll
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\EntityFramework.xml
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+E:\PROJETO GIT\SITE\Desafio-BrasPag\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
