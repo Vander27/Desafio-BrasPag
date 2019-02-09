@@ -28,25 +28,8 @@ namespace Projeto.Repository.Generics
             }
         }
 
-        public virtual void Update(T obj)
-        {
-            using (DataContext ctx = new DataContext())
-            {
-                ctx.Entry(obj).State = EntityState.Modified;
-                ctx.SaveChanges();
-            }
-        }
 
-
-        public virtual void Delete(T obj)
-        {
-            using (DataContext ctx = new DataContext())
-            {
-                ctx.Entry(obj).State = EntityState.Deleted;
-                ctx.SaveChanges();
-            }
-        }
-
+       
         public virtual List<T> FindAll()
         {
             using (DataContext ctx = new DataContext())
@@ -55,13 +38,8 @@ namespace Projeto.Repository.Generics
             }
         }
 
-        public virtual T FindById(int id)
-        {
-            using (DataContext ctx = new DataContext())
-            {
-                return ctx.Set<T>().Find(id);
-            }
-        }
+       
+
 
 
     }

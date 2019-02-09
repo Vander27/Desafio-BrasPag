@@ -16,10 +16,7 @@ namespace Projeto.Entities
         public  decimal Debito { get; set; }
         public int IdClienteAdquirente { get; set; }
 
-
-
         public ClienteAdquirente ClienteAdquirente { get; set; }
-
-       
+        
     }
 }

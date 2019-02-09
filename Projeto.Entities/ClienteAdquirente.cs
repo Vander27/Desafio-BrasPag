@@ -16,7 +16,6 @@ namespace Projeto.Entities
 
         #region Relacionamento
         public List<Taxa> Taxas { get; set; }
-     
 
         #endregion
 

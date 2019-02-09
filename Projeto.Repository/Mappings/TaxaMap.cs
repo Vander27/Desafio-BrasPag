@@ -40,16 +40,12 @@ namespace Projeto.Repository.Mappings
                  .HasColumnName("DEBITO");
                
 
-            Property(t => t.IdClienteAdquirente)
-               .HasColumnName("IDCLIENTEADQUIRENTE")
-               .IsRequired();
-
 
             //Mapear a chave estrangeira com a 
             //tabela de Adquirente..
-            HasRequired(t => t.ClienteAdquirente) //Taxa TEM 1 Cliente
-                .WithMany(a => a.Taxas) //Cliente TEM Muitos Taxas
-                .HasForeignKey(t => t.IdClienteAdquirente) //Chave estrangeira
+            HasRequired(a => a.ClienteAdquirente)
+                .WithMany(t => t.Taxas)
+                .HasForeignKey(a => a.IdClienteAdquirente)
                 .WillCascadeOnDelete(false);
 
 

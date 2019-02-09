@@ -10,7 +10,7 @@ namespace Projeto.Services.Models
     {
       
         public  string Adquirente { get; set; }
-     
-       
+
+        public List<TaxaConsultaViewModel> Taxas { get; set; }
     }
 }

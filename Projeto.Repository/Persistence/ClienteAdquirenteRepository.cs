@@ -14,18 +14,19 @@ namespace Projeto.Repository.Persistence
 {
    public class ClienteAdquirenteRepository : GenericRepository<ClienteAdquirente>
     {
+       
+
 
         //método que retorne a quantidade de Taxas
         //de um determinado Adquirente..
-        public int QtdTaxas(int idClienteAdquirente)
+        public ClienteAdquirente Adquirente(string Adquirente)
         {
             using (DataContext ctx = new DataContext())
             {
-                return ctx.Taxa
-                          .Where(t => t.IdClienteAdquirente == idClienteAdquirente)
-                          .Count();
+                return ctx.ClienteAdquirente.Where(t => t.Adquirente == Adquirente).First();
             }
         }
 
+        
     }
 }

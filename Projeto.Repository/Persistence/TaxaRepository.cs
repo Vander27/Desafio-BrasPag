@@ -12,16 +12,15 @@ using System.Data.Entity; //entityframework
 namespace Projeto.Repository.Persistence
 {
    public class TaxaRepository : GenericRepository<Taxa>
-    {
-        public override List<Taxa> FindAll()
+   {
+        public List<Taxa> ClienteAdquirente(int idClienteAdquirente)
         {
             using (DataContext ctx = new DataContext())
             {
-                return ctx.Taxa
-                          .Include(t => t.ClienteAdquirente) //JOIN
-                          .ToList();
+                return ctx.Taxa.Where(t => t.IdClienteAdquirente == idClienteAdquirente).ToList();
             }
         }
+
 
     }
 }
